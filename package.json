@@ -1,0 +1,32 @@
+{
+  "name": "react-validator",
+  "version": "1.0.0",
+  "description": "react validator",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "hoist-non-react-statics": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reoszo/react-validator.git"
+  },
+  "keywords": [
+    "react validator",
+    "react form validator",
+    "react native validator",
+    "react native form validator",
+    "react validation",
+    "react form validation",
+    "react native validation",
+    "react native form validation"
+  ],
+  "author": "reoszo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reoszo/react-validator/issues"
+  },
+  "homepage": "https://github.com/reoszo/react-validator#readme"
+}
